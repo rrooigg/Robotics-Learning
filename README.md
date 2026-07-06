@@ -1,5 +1,5 @@
 # Robotics Learning
-This repository shows my journey to being a robotics engineer. From building arduino projects to microcontrollers like ESP32.
+This repository shows my journey to become a robotics engineer. From building arduino projects to microcontrollers like ESP32.
 
 ## Projects
 - 01: Blink an LED
